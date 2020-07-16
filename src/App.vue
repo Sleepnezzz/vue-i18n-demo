@@ -1,7 +1,6 @@
 <template>
   <div id="app">
     <h1>learn vue i18n</h1>
-    <img alt="Vue logo" src="./assets/logo.png" />
     <HelloWorld msg="Welcome" />
   </div>
 </template>
